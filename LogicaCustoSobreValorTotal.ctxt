@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=LogicaCustoSobreValorTotal
+comment1.params=custo\ venda
+comment1.target=double\ calcularCusto(CustoSobreValorTotal,\ Venda)
+numComments=2

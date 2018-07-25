@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CustoSobreValorTotal
+comment1.params=nome\ taxa
+comment1.target=CustoSobreValorTotal(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=double\ getTaxa()
+comment5.params=taxa
+comment5.target=void\ setTaxa(double)
+numComments=6

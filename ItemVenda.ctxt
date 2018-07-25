@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ItemVenda
+comment1.params=
+comment1.target=double\ getSubTotal()
+comment2.params=quantidade
+comment2.target=void\ setQuantidade(double)
+comment3.params=
+comment3.target=double\ getQuantidade()
+comment4.params=precoVenda
+comment4.target=void\ setPrecoVenda(double)
+comment5.params=
+comment5.target=double\ getPrecoVenda()
+comment6.params=produto
+comment6.target=void\ setProduto(Produto)
+comment7.params=
+comment7.target=Produto\ getProduto()
+numComments=8

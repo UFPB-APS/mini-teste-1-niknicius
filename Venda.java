@@ -37,11 +37,4 @@ public class Venda {
         this.total = total;
     }
     
-    
-    
-    
-    
-    
-    
-    
 }

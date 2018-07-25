@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Produto
+comment1.params=
+comment1.target=Produto()
+comment2.params=id\ descricao\ precoReferencia
+comment2.target=Produto(int,\ java.lang.String,\ double)
+comment3.params=id
+comment3.target=void\ setId(int)
+comment4.params=
+comment4.target=int\ getId()
+comment5.params=descricao
+comment5.target=void\ setDescricao(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDescricao()
+comment7.params=precoReferencia
+comment7.target=void\ setPrecoReferencia(double)
+comment8.params=
+comment8.target=double\ getPrecoReferencia()
+comment9.params=percentual
+comment9.target=void\ reajustarPreco(double)
+numComments=10

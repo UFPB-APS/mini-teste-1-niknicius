@@ -1,4 +1,4 @@
-public class ICMS implements Custo {
+public class ICMS{
     
     private String estadoDaLoja = "PB";
 
